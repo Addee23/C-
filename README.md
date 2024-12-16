@@ -24,6 +24,7 @@ Admin: Username: admin, Password: admin
 User: Username: user, Password: password
 
 Example Data
+
 The program comes preloaded with sample data:
 
 Books:
@@ -34,6 +35,6 @@ Books:
 
 Notes
 
-This project was created as part of my journey to learn C#. It showcases the skills I developed through lessons and practical exercises, including working with SQL databases. It showcases the skills I developed through lessons and practical exercises :)
+I recently completed my first project in C# and SQL as part of my studies. As a beginner, I worked on this project with the guidance of structured lessons, which helped me build a basic understanding of both the programming language and database management. The project, written in Swedish, was an important step in my learning journey and provided me with valuable insights into how C# and SQL work together. :)
 
 
